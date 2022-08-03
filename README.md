@@ -1038,3 +1038,6 @@ class MediaStorage(S3Boto3Storage):
 - Julia Konn - for testing the app extensively
 - Rachel Rock - for testing the app extensively
 - Kamil Kwiatkowski - for testing the app extensively
+
+
+- Joanna Gorska - for great advice on creating a README and the README template used
