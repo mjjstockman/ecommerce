@@ -112,9 +112,33 @@ The app is designed as a e-commerce application that encourages the users to mak
 
 ## User Stories
 
-### User Stories that have been satisfied by creation of particular apps in ths project:
+<!-- ### User Stories that have been satisfied by creation of particular apps in ths project: -->
 
-| id  |  content | how was it satisfied
+### Themes, Epics, Related User Stories, MOSCOW
+
+The following table was used to plan the development of the project.  This helped to easily break down
+Themes into Epics, their related User Stories and prioritise their importance. 
+
+| Theme | Epic | Related User Stories | MOSCOW |Order | Completed |
+|--|--|--|--|--|--|
+| Account Management | Sign up | #2 Sign up using username / password | Must have |1 | No |
+| 					| 			| #3 Sign up using social media | Should have | 20 | No |
+| 					| Sign in | #1 Log in using username / password | Must have | 2 | No |
+| 					| 		  | #4 Log in using social media | Should have | 21 | No |
+| 					| 			| #4 Forgot sign info | Should have | 21 | No |
+| 					| Log out | #5 Manual log out | Must have | 3 | No |
+| 					| 			| #6 Automatic log out | Won't have | 22 | No |
+| Products | Add products | Add products through admin | Must have | 4 | No |
+| 			| 				|  Add products through site | Must have | 4 | No |
+| 			| View products| View all products | Must have | 4 | No |
+| 			| 			| View products by category | Must have | 4 | No |
+| 			| 			| View new products | Must have | 4 | No |
+| 			| Edit products	|  Edit products through admin | Must have | 4 | No |
+| 			|  				|  Edit products through site | Must have | 4 | No |
+| 			| Delete products	|  Delete products through admin | Must have | 4 | No |
+| 			|  				|  Delete products through site | Must have | 4 | No |
+
+<!-- | id  |  content | how was it satisfied
 | ------ | ------ | ------ |
 |  [#1](https://github.com/JoGorska/bonsai-shop/issues/1) | As a Shopper I can register as a user and have ability to login so that my personal data is saved for future shopping | profile |
 |  [#2](https://github.com/JoGorska/bonsai-shop/issues/2) | As a shopper I can see a list of products so that so I can view what shop can offer | trees app |
@@ -143,7 +167,7 @@ The app is designed as a e-commerce application that encourages the users to mak
 |  [#49](https://github.com/JoGorska/bonsai-shop/issues/49) | As a shopper I can have a dedicated checkout app so that I can fill in my details to complete the purchase and see the summary of my trolley | checkout app |
 |  [#52](https://github.com/JoGorska/bonsai-shop/issues/52) | As a returning customer I can have my details saved so that I don't have to re type my address every time | profile app |
 |  [#110](https://github.com/JoGorska/bonsai-shop/issues/110) | As a newsletter subscriber I can have a link for unsubscribing so that unsubscribe from newsletter | newsletter app |
-|  [#118](https://github.com/JoGorska/bonsai-shop/issues/118) | As a store owner I can switch quickly between published and unpublished questions so that I know what has been written on the same subject before | questions app
+|  [#118](https://github.com/JoGorska/bonsai-shop/issues/118) | As a store owner I can switch quickly between published and unpublished questions so that I know what has been written on the same subject before | questions app -->
 
 ### User stories that are planned for next sprint
 
