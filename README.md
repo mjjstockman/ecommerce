@@ -125,7 +125,7 @@ Themes into Epics, their related User Stories and prioritise their importance.
 | 					| 			| #3 Sign up using social media | Should have | 20 | No |
 | 					| Sign in | #1 Log in using username / password | Must have | 2 | No |
 | 					| 		  | #4 Log in using social media | Should have | 21 | No |
-| 					| 			| #4 Forgot sign info | Should have | 21 | No |
+| 					| 			| #4 Forgot sign in info | Should have | 21 | No |
 | 					| Log out | #5 Manual log out | Must have | 3 | No |
 | 					| 			| #6 Automatic log out | Won't have | 22 | No |
 | Products | Add products | Add products through admin | Must have | 4 | No |
